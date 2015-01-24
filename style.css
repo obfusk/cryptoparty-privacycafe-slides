@@ -29,8 +29,8 @@ img                     { max-width: 100%; max-height: 100%; }
 .logos-4    img         { width: 20%; }
 .logos-5    img         { width: 15%; }
 
-.w70                    { width: 70%;   margin: auto; }
-.w80                    { width: 80%;   margin: auto; }
+.w70                    { width: 70%; margin: auto; }
+.w80                    { width: 80%; margin: auto; }
 
 /*
 .footnote               { position: absolute; bottom: 3em; }

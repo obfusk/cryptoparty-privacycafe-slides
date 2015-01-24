@@ -31,6 +31,7 @@
 ### Images from Wikipedia [2]
 
   * https://commons.wikimedia.org/wiki/File:Bits_of_Freedom.png
+  * https://commons.wikimedia.org/wiki/File:Chaparral_Supercell_2.JPG
   * https://commons.wikimedia.org/wiki/File:EFF_Logo.svg
   * https://commons.wikimedia.org/wiki/File:Edri_logo-new.png
   * https://commons.wikimedia.org/wiki/File:Gnupg_logo.svg
