@@ -31,34 +31,30 @@
 ### Images from Wikipedia [2]
 
   * https://commons.wikimedia.org/wiki/File:Bits_of_Freedom.png
-  * https://en.wikipedia.org/wiki/File:Free_Software_Foundation_Europe,_logo.svg
-  * ...
-
----
-
   * https://commons.wikimedia.org/wiki/File:EFF_Logo.svg
   * https://commons.wikimedia.org/wiki/File:Edri_logo-new.png
   * https://commons.wikimedia.org/wiki/File:Gnupg_logo.svg
-  * https://commons.wikimedia.org/wiki/File:HTTPS_Everywhere_logo.jpg
+  * https://commons.wikimedia.org/wiki/File:Img_51614_critical-data-centre-at-uni-of-hertfordshire.jpeg
   * https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg
   * https://commons.wikimedia.org/wiki/File:Openlogo-debianV2.svg
   * https://commons.wikimedia.org/wiki/File:Padlock-silver-medium.svg?uselang=en-gb
-  * https://commons.wikimedia.org/wiki/File:Pidgin.svg
   * https://commons.wikimedia.org/wiki/File:Tor-logo-2011-flat.svg
-  * https://en.wikipedia.org/wiki/File:F-Droid_Logo_3.svg
+  * https://de.wikipedia.org/wiki/Datei:CipherDisk2000.jpg
+  * https://en.wikipedia.org/wiki/File:Edward_Snowden-2.jpg
+  * https://en.wikipedia.org/wiki/File:Facebook.svg
+  * https://en.wikipedia.org/wiki/File:FedEx_MD-11F_N607FE.jpg
+  * https://en.wikipedia.org/wiki/File:Free_Software_Foundation_Europe,_logo.svg
   * https://en.wikipedia.org/wiki/File:Free_Software_Foundation_logo_and_wordmark.svg
-  * https://en.wikipedia.org/wiki/File:Tails-logo-flat-inverted.svg
+  * https://en.wikipedia.org/wiki/File:Internet_map_1024.jpg
+  * https://en.wikipedia.org/wiki/File:Logo_Google_2013_Official.svg
+  * https://en.wikipedia.org/wiki/File:NetworkTopologies.svg
 
 ### Other Images [3]
 
+  * http://www.cnet.com/news/whats-technically-in-your-tweets/ (tweet)
   * https://github.com/cryptoparty/artwork/blob/master/CryptoPartyLogo.svg
   * https://privacycafe.nl/hoe-organiseer-ik-een-privacy-cafe/toolkit (privacy cafe logo)
-  * ...
-
----
-
-  * https://fsfe.org/campaigns/android/robot.png
-  * https://s.eff.org/files/privacy-badger-latest.xpi (privacy badger logo)
+  * https://twitter.com/kirschner/status/537558219804377088 (no cloud)
 
 []: }}}1
 
