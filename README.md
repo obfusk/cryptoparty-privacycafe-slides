@@ -2,7 +2,7 @@
 
     File        : README.md
     Maintainer  : Felix C. Stegerman <flx@obfusk.net>
-    Date        : 2015-01-24
+    Date        : 2015-01-25
 
     Copyright   : Copyright (C) 2015  Felix C. Stegerman
 
@@ -10,11 +10,13 @@
 
 ## Description
 
-  cryptoparty/privacycafe slides
+  cryptoparty/privacycafe slides (w/ notes)
 
   &rarr; https://cryptoparty.in
   <br/>
   &rarr; https://privacycafe.nl
+
+  Made w/ [remark](http://remarkjs.com).
 
 ## Licence
 
@@ -49,6 +51,7 @@
   * https://en.wikipedia.org/wiki/File:Internet_map_1024.jpg
   * https://en.wikipedia.org/wiki/File:Logo_Google_2013_Official.svg
   * https://en.wikipedia.org/wiki/File:NetworkTopologies.svg
+  * https://en.wikipedia.org/wiki/File:Steps_to_man_o'war_cove_dorset_england_arp_(cropped).jpg
 
 ### Other Images [3]
 
